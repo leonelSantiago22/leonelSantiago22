@@ -14,6 +14,8 @@ I'm Leonel Santiago Rosas a computer engineer who is passionate about making con
 - [Estructura de Datos](https://github.com/leonelSantiago22/EstrucDatosSemestre2)
 - [Programacion Orientada a Objetos](https://github.com/leonelSantiago22/POO3erSemestre)
 - [Lenguaje Ensamblador](https://github.com/leonelSantiago22/LenguajeEnsamblador)
+- [Programacion web 2](https://github.com/leonelSantiago22/programacionweb2)
+- [Programacion web 1](https://github.com/leonelSantiago22/programacionweb1)
 
 
 <p align="center" width="300">
