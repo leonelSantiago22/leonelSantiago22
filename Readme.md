@@ -18,7 +18,3 @@ I'm Leonel Santiago Rosas a computer engineer who is passionate about making con
 - [Programacion web 1](https://github.com/leonelSantiago22/programacionweb1)
 
 
-<p align="center" width="300">
-   <img align="center" width="200" src="https://github.com/leonelSantiago22/leonelSantiago22/blob/main/WhatsApp%20Image%202023-05-23%20at%2010.54.35%20PM.jpeg" />
-   <h3 align="center">¡Hey 👋! Soy  Leonel👨🏻‍💻</h3>
-</p>
