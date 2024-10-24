@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonelsantiago22" alt="leonelsantiago22" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **SOC analyst**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
